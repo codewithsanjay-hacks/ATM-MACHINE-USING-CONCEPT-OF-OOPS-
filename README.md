@@ -4,7 +4,7 @@ import java.util.*;
 
 class atmbob {
     int PIN = 3257;
-    float balance = 100f;
+    float balance = 0.00f;
 
     void checkpin() {
         Scanner input = new Scanner(System.in);
