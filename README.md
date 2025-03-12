@@ -3,7 +3,7 @@ ITS ONLY BASIC OF CLASSES AND OBJECT IN JAVA
 import java.util.*;
 
 class atmbob {
-    int PIN = 3219;
+    int PIN = 3257;
     float balance = 100f;
 
     void checkpin() {
